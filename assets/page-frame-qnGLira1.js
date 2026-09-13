@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-Cltr0gcK.js";import{s as t}from"./index-DQpjNU3W.js";var n=e();function r({children:e,className:r}){return(0,n.jsx)(`main`,{className:t(`page-shot relative px-5 pb-32 pt-24 sm:px-10 sm:pb-28 sm:pt-28 lg:px-16`,r),children:e})}export{r as t};
